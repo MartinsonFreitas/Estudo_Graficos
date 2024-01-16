@@ -43,7 +43,7 @@ var dom = document.getElementById('container');
         data: [
           // local para colocar os blocos de dados
           /* */
-          { value: 848, name: 'Engenharia Elétrica' },
+          { value: 1048, name: 'Engenharia Elétrica' },
           { value: 735, name: 'Engenharia Civil' },
           { value: 580, name: 'Engenharia Mecânica' },
           { value: 484, name: 'Engenharia Química' },
@@ -54,7 +54,7 @@ var dom = document.getElementById('container');
           //  aux.retornaDados(),
           {
             // make an record to fill the bottom 50%
-            value: 1048 + 735 + 580 + 484 + 300,
+            value: 1048 + 735 + 580 + 484 + 300 + 230 + 120,
             itemStyle: {
               // stop the chart from rendering this piece
               color: 'none',
